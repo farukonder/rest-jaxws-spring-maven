@@ -12,15 +12,15 @@
 
 	<context:component-scan base-package="eu.tyrkiahus.web" />
 
-	<bean id="transactionBo" class="eu.tyrkiahus.web.service.impl.TransactionBoImpl" />
+	<bean id="myservice" class="eu.tyrkiahus.web.service.impl.ServiceImpl" />
 
 	<wss:binding url="/ws">
 		<wss:service>
-			<ws:service bean="#accountServiceEndpoint" />
+			<ws:service bean="#accountWebService" />
 		</wss:service>
 	</wss:binding>
 
-	<bean id="accountServiceEndpoint" class="eu.tyrkiahus.web.jaxws.AccountServiceEndpoint">
+	<bean id="accountWebService" class="eu.tyrkiahus.web.jaxws.AccountWebService">
 	</bean>
 
 </beans>

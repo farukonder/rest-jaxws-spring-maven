@@ -14,7 +14,7 @@ public class Resume {
 
 	public void setId(String id) {
 		this.id = id;
-		adress.setAdd(id + "bla");
+		adress.setAdd("bla bla bla");
 	}
 
 }
