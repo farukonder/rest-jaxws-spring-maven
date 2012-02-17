@@ -1,0 +1,5 @@
+package eu.tyrkiahus.web.model;
+
+public class Resume {
+
+}

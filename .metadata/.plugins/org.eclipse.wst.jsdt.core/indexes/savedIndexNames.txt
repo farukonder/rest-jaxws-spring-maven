@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+/home/onder/dev/eclipse/indigo2/work/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3043927190.index
+163829798.index
+1921472400.index
+327696867.index

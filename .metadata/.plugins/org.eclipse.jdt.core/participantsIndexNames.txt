@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/onder/dev/eclipse/indigo2/work/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1367878984.index
+/eu.tyrkiahus.web/src/main/java
+/home/onder/dev/eclipse/indigo2/work/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/469096291.index
+/eu.tyrkiahus.web/src/main/java

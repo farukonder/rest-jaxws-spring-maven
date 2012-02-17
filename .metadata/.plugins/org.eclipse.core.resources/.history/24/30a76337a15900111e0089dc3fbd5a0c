@@ -1,0 +1,17 @@
+package eu.tyrkiahus.web.model;
+
+public class Resume {
+	
+	private String id;
+	private Adress adress = new Adress();
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+		adress.setAdd(id + "bla");
+	}
+
+}
